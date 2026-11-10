@@ -1,0 +1,49 @@
+APP NAME:
+General Physician App
+
+SHORT DESCRIPTION (80 chars):
+Patient + Doctor in ONE App - Book, Prescription, Reports - Dr. Sumaiya Mohammad
+
+FULL DESCRIPTION:
+🩺 General Physician App - Developed by Dr. Sumaiya Mohammad
+
+Your Family Doctor, In Your Pocket. Patient + Doctor In ONE App.
+
+👩‍⚕️ ABOUT DR. SUMAIYA MOHAMMAD
+MBBS • General Physician • Bangladesh
+10+ Years Experience • Fever, Diabetes, Pressure, Gastric, Child Fever, Women's Health
+Chamber: Kishoreganj| Sat-Thu 9 AM - 9 PM
+
+🧑 FOR PATIENTS:
+✅ Find Doctor - Dr. Sumaiya Mohammad on top
+✅ Book Appointment - Get Serial Number instantly
+✅ Symptom Checker - Fever, Cough, Chest Pain, Diabetes
+✅ Medicine Reminder - Add Medicine, Tick Done Daily
+✅ Save Reports - Blood Test, X-Ray - Health Diary Auto
+✅ BMI / BP / Sugar Calculators
+✅ Emergency - Call 999, SOS to Family, First Aid Guide
+✅ Blood Donor Registration
+
+👩‍⚕️ FOR DOCTORS (PIN Protected):
+✅ Dashboard - Today Total / Waiting / Done / Earnings
+✅ Patient List - Search, Blood, Allergy, History
+✅ Queue - Serial Wise, Done / Call / Cancel
+✅ Prescription Writer - Diagnosis + Medicine + Advice + Tests
+✅ Print Prescription + Send Rx on WhatsApp
+✅ Reports - Normal / Abnormal / Critical
+
+🌐 Bangla + English | 📱 Offline | 🔐 Privacy - Data stays on your phone
+
+⚠️ DISCLAIMER: Guidance and record-keeping only. Not a replacement for clinical judgment. In emergency, call 999.
+
+Download Now - General Physician App by Dr. Sumaiya Mohammad - Bangladesh
+
+CATEGORY: Medical
+CONTENT RATING: Everyone
+PACKAGE: com.sumaiyamohammad.generalphysician
+VERSION: 1.0.0 (1)
+PRIVACY URL: https://general-physician-app.onrender.com/privacy-policy.html
+CONTACT EMAIL: sumaiya.contactpro@gmail.com
+
+---
+© 2026 General Physician App | Developed by Dr. Sumaiya Mohammad | Bangladesh
